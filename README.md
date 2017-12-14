@@ -1,8 +1,6 @@
 # Timetable
 
-Author: Muhammad Faheem Khan
-Date: 13/12/2017
-Description: This is a simple timetable made in python3
+This is a simple timetable program that allows the user to create a timetable in console. Once the file is created the content is then emailed to the user. Everything happens in the Console.
 
 # Modules
 - OS
